@@ -1,4 +1,4 @@
-# 🔥 Advanced Smart RGB LED System (ESP32)
+# 🔥  Smart RGB LED System (ESP32)
 
 An intelligent Smart Lighting System built using ESP32 that detects motion and room brightness to automatically control a light using a relay and display system status using an RGB LED.
 
